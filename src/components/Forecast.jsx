@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Forecast({title}) {
+export default function Forecast({title, items}) {
   return (
   <div> 
    <div className="flex items-center justify-start mt-6">
@@ -17,42 +17,7 @@ export default function Forecast({title}) {
      />
      <p className="font-medium">22 °</p>
     </div>
-    <div className="flex flex-col items-center justify-center">
-     <p className="font-light text-sm">04:30pm</p>
-     <img
-      src="http://openweathermap.org/img/wn/01d@2x.png"
-      className="w-12 my-1"
-      alt=""
-     />
-     <p className="font-medium">22 °</p>
-    </div>
-    <div className="flex flex-col items-center justify-center">
-     <p className="font-light text-sm">04:30pm</p>
-     <img
-      src="http://openweathermap.org/img/wn/01d@2x.png"
-      className="w-12 my-1"
-      alt=""
-     />
-     <p className="font-medium">22 °</p>
-    </div>
-    <div className="flex flex-col items-center justify-center">
-     <p className="font-light text-sm">04:30pm</p>
-     <img
-      src="http://openweathermap.org/img/wn/01d@2x.png"
-      className="w-12 my-1"
-      alt=""
-     />
-     <p className="font-medium">22 °</p>
-    </div>
-    <div className="flex flex-col items-center justify-center">
-     <p className="font-light text-sm">04:30pm</p>
-     <img
-      src="http://openweathermap.org/img/wn/01d@2x.png"
-      className="w-12 my-1"
-      alt=""
-     />
-     <p className="font-medium">22 °</p>
-    </div>
+    
     
    </div>
   </div>
