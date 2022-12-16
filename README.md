@@ -2,7 +2,7 @@
 Take search input and fetch and display temperature, humidity, wind speed, real feel, sunrise, sunset, min, max, and hourly and daily forecast.  
 Built using React JS, Tailwind CSS, and the OpenWeatherMap API.
 
-I had been eager to learn and use React, so with my free time during the summer, I finally mastered React with the use of online tutorials and resources.  I wanted to work with APIs usimg Javascript, so I decided to make a Weather App with the OpenWeatherMap API.  I ran into a lot of errors and challenges with doing this for the first time, but I learned a lot and was able to complete it. 
+I had been eager to learn and use React, so with my free time during the summer, I finally mastered React with the use of online tutorials and resources.  I wanted to work with APIs using Javascript, so I decided to make a Weather App with the OpenWeatherMap API.  I ran into a lot of errors and challenges with doing this for the first time, but I learned a lot and was able to complete it. 
 
 
 # Getting Started with Create React App
